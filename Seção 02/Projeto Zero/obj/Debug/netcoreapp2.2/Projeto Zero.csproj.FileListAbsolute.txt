@@ -1,0 +1,33 @@
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\bin\Debug\netcoreapp2.2\Projeto Zero.deps.json
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\bin\Debug\netcoreapp2.2\Projeto Zero.runtimeconfig.json
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\bin\Debug\netcoreapp2.2\Projeto Zero.runtimeconfig.dev.json
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\bin\Debug\netcoreapp2.2\Projeto Zero.dll
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\bin\Debug\netcoreapp2.2\Projeto Zero.pdb
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\bin\Debug\netcoreapp2.2\Projeto Zero.Views.dll
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\bin\Debug\netcoreapp2.2\Projeto Zero.Views.pdb
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.csproj.AssemblyReference.cache
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.AssemblyInfoInputs.cache
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.AssemblyInfo.cs
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.RazorAssemblyInfo.cache
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.RazorAssemblyInfo.cs
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.TagHelpers.input.cache
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.TagHelpers.output.cache
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.RazorCoreGenerate.cache
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.RazorTargetAssemblyInfo.cache
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.RazorTargetAssemblyInfo.cs
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.Views.pdb
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.dll
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.pdb
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.genruntimeconfig.cache
+C:\Users\Paulo Silva\Desktop\Primeiro Projeto\Projeto Zero\obj\Debug\netcoreapp2.2\Projeto Zero.csproj.CopyComplete
